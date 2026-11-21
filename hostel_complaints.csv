@@ -1,0 +1,56 @@
+Complaint_ID,Student_Name,Block,Room_No,Category,Priority,Status,Resolution_Hours,Repair_Cost
+CMP1001,Vikram Kumar,Block C,348,Mess/Food,High,Pending,68,1643.4
+CMP1002,Sneha Verma,Block A,230,Plumbing,High,Resolved,35,2147.91
+CMP1003,Ananya Patel,Block B,336,Plumbing,High,Pending,36,1467.19
+CMP1004,Ananya Das,Block A,210,Furniture,Low,Resolved,8,1402.32
+CMP1005,Rohan Singh,Block B,189,Housekeeping,Medium,Pending,67,322.09
+CMP1006,Rohan Sharma,Block D,237,Furniture,High,Resolved,44,1758.37
+CMP1007,Vikram Singh,Block A,371,Electrical,Medium,Pending,11,1184.5
+CMP1008,Arjun Sharma,Block B,205,Housekeeping,High,Resolved,15,329.52
+CMP1009,Arjun Singh,Block A,193,Housekeeping,Critical,Pending,70,365.02
+CMP1011,Rohan Reddy,Block B,323,Furniture,Low,Resolved,63,1549.57
+CMP1012,Kabir Das,Block B,351,Wi-Fi/Network,High,Pending,,1885.83
+CMP1013,Priya Reddy,Block A,157,Furniture,Low,In Progress,33,962.27
+CMP1014,Aarav Singh,Block B,283,Plumbing,Medium,Pending,55,1119.61
+CMP1015,Diya Gupta,Block C,217,Plumbing,Critical,Resolved,20,
+CMP1016,Arjun Patel,Block B,190,Electrical,Medium,In Progress,12,1983.74
+CMP1017,Meera Singh,Block D,263,Housekeeping,Medium,In Progress,39,1529.8
+CMP1018,Kabir Patel,Block D,245,Furniture,Medium,In Progress,7,2262.65
+CMP1019,Meera Joshi,Block B,288,Mess/Food,Critical,In Progress,13,1282.99
+CMP1020,Kabir Singh,Block C,393,Plumbing,High,Resolved,30,1880.75
+CMP1021,Vikram Das,Block C,165,Housekeeping,Low,Resolved,7,290.16
+CMP1022,Arjun Nair,Block B,390,Plumbing,Critical,In Progress,59,757.1
+CMP1023,Vikram Joshi,Block A,104,Electrical,High,In Progress,53,1722.65
+CMP1024,Meera Reddy,Block D,145,Mess/Food,Critical,In Progress,,2051.66
+CMP1025,Vikram Reddy,Block D,251,Housekeeping,Critical,Pending,43,1890.79
+CMP1026,Priya Joshi,Block B,309,Wi-Fi/Network,Critical,In Progress,3,2050.2
+CMP1027,Rohan Gupta,Block D,203,Electrical,Critical,In Progress,25,1391.61
+CMP1028,Priya Das,Block D,132,Housekeeping,Medium,Resolved,35,613.64
+CMP1029,Aarav Sharma,Block B,342,Wi-Fi/Network,Critical,In Progress,23,1016.42
+CMP1030,Priya Nair,Block A,306,Electrical,Critical,In Progress,5,
+CMP1031,Diya Das,Block D,156,Furniture,High,Pending,23,449.21
+CMP1032,Kabir Verma,Block A,278,Housekeeping,Low,Resolved,20,1275.74
+CMP1033,Meera Das,Block C,236,Mess/Food,Critical,Resolved,72,1978.28
+CMP1034,Meera Reddy,Block C,320,Wi-Fi/Network,High,In Progress,38,2334.71
+CMP1035,Ananya Gupta,Block D,209,Plumbing,High,In Progress,12,1310.57
+CMP1036,Meera Verma,Block B,138,Electrical,Medium,Resolved,,596.23
+CMP1037,Ananya Joshi,Block C,179,Wi-Fi/Network,Critical,In Progress,12,1737.74
+CMP1038,Meera Joshi,Block A,181,Furniture,Critical,Pending,42,1845.22
+CMP1039,Vikram Reddy,Block D,394,Furniture,Medium,Resolved,69,2150.02
+CMP1040,Vikram Das,Block C,202,Housekeeping,Medium,In Progress,27,627.45
+CMP1041,Aarav Gupta,Block A,177,Plumbing,Medium,Resolved,8,1467.41
+CMP1042,Diya Kumar,Block C,244,Electrical,Low,Pending,50,231.0
+CMP1043,Vikram Patel,Block B,380,Housekeeping,Medium,In Progress,67,2143.39
+CMP1044,Diya Joshi,Block C,264,Mess/Food,Medium,Resolved,38,791.32
+CMP1045,Priya Das,Block A,104,Wi-Fi/Network,Medium,Resolved,30,
+CMP1046,Arjun Sharma,Block B,359,Plumbing,High,In Progress,37,2399.55
+CMP1047,Priya Nair,Block A,206,Housekeeping,Medium,Resolved,48,606.46
+CMP1048,Sneha Nair,Block B,381,Wi-Fi/Network,Low,In Progress,,2418.8
+CMP1049,Aarav Das,Block C,409,Housekeeping,Medium,In Progress,51,474.96
+CMP1050,Diya Nair,Block B,153,Furniture,Critical,In Progress,2,1700.34
+CMP1051,Sneha Nair,Block D,230,Housekeeping,High,Resolved,28,1069.7
+CMP1052,Kabir Patel,Block C,125,Wi-Fi/Network,Medium,In Progress,43,501.86
+CMP1053,Aarav Gupta,Block D,165,Housekeeping,Critical,In Progress,26,266.19
+CMP1054,Priya Gupta,Block C,207,Furniture,High,In Progress,5,505.45
+CMP1055,Priya Patel,Block A,371,Housekeeping,Critical,In Progress,32,804.54
+CMP1056,vaibhav,d,420,Housekeeping,Medium,Pending,,500
